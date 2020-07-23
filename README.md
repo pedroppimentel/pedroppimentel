@@ -8,5 +8,5 @@ What I'm working on 💻<br>
 <br><br>
 Find me elsewhere 🌎<br>
 🚀 pedrop.pimentel@hotmail.com <br>
-💼 [LinkedIn](https://www.linkedin.com/in/pedroppimentel/) <br>
+💼 [LinkedIn](https://www.linkedin.com/in/pimentelpedrop/) <br>
 
