@@ -5,7 +5,7 @@
 <br><br>
 What I'm working on 💻<br>
 🧠 Angular,<br>
-🧠 Angular,<br>
+🧠 Typescript,<br>
 🧠 Java
 <br><br>
 Find me elsewhere 🌎<br>
