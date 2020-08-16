@@ -4,7 +4,9 @@
 🌟 'Olá' from Brazil 
 <br><br>
 What I'm working on 💻<br>
-🧠 Currently working with Angular and Typescript
+🧠 Angular,<br>
+🧠 Angular,<br>
+🧠 Java
 <br><br>
 Find me elsewhere 🌎<br>
 🚀 pedrop.pimentel@hotmail.com <br>
